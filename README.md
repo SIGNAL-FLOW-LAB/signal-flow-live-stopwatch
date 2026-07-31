@@ -65,11 +65,11 @@ Ableton Liveの再生開始・停止と自動同期し、本番中でも常に�
 
 ### Main Window
 
-![Main Window](Docs/images/main-window.png)
+![Main Window](Docs/main-window.png)
 
 ### Compact Mode
 
-![Compact Mode](Docs/images/compact-mode.png)
+![Compact Mode](Docs/compact-mode.png)
 
 
 ## Download
